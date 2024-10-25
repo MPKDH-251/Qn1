@@ -1,0 +1,32 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #FFFFFF;
+}
+
+#riddle {
+    font-style: italic;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    padding: 8px 15px;
+    margin-top: 10px;
+}
